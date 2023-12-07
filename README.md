@@ -17,9 +17,9 @@
    ```bash
     cd directoryName
    ```
-   > ilgili dizine gitmenizi sağlar
+   > ilgili dizine gitmenizi sağlar.
 
    ```bash
    cd .. 
    ```
-   > bir üst dizine gitmenizi sağlar
+   > bir üst dizine gitmenizi sağlar.
