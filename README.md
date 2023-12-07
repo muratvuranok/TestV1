@@ -2,8 +2,9 @@
 
 >[!NOTE]
 >Dersi Derste Dinle
-
-
+ 
+ <br>
+ 
 - `mkdir` - `md` : klasör (directory) (govluq) oluşturmak için kullanılır
   
   ```bash
